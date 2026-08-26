@@ -1,2 +1,3 @@
-hi and todays class is git. and i am doing it again what i have dont yesterday.
+hi and todays class is git. and i am doing it again what i have done yesterday.  
+i have created an account on github and i am doing push and pull commands.
 
