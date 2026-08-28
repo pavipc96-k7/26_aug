@@ -1,0 +1,8 @@
+pwd ---> shows current working directory
+mkdir ---> if you want to make a new directory using this
+cd ---> if you want to change the current directory
+ls ---> lists out all the directories
+cd.. ---> it will go back one directory
+touch ---> to create an empty file
+nano ---> to edit the file ( ctrl + x , press y, and then press enter)
+cat ---> to see the contents inside the file
